@@ -1,7 +1,7 @@
 # Deployment configuration for the staging environment
 
 ## About
-This reposit contains the kustomzisation overlays to deploy the [taxi application](https://github.com/sbose78/taxi)
+This reposi contains the kustomzisation overlays to deploy the [taxi application](https://github.com/sbose78/taxi)
 
 ## Why
 The `stage` configuration repository for the [taxi application](https://github.com/sbose78/taxi) is used for maintaining the incremental deployment configuration ( 'manifests' ), specific to the `stage` environment.
